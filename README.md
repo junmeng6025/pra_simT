@@ -1,5 +1,5 @@
 # pra_simT
-the Simulink models for the practical course Simulationstechnik in WS2021/22
+This repo contains my Simulink models for the practical course Simulationstechnik in WS2021/22
 
 Day1: Fundamentals of Simulink and MATLAB.<br>
 Day2: Process control design of a workpiece sorting system (using Stateflow chart).<br>
