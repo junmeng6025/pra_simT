@@ -1,4 +1,4 @@
-# pra_simT
+# Praktikum Simulationstechnik
 This repo contains my Simulink models for the practical course Simulationstechnik in WS2021/22
 
 Day1: Fundamentals of Simulink and MATLAB.<br>
@@ -12,3 +12,4 @@ Day4: Process control design of the material fullfilling system in Day3 (using S
 **Day3, 4 material fullfilling system**<br><br>
 ![image](https://user-images.githubusercontent.com/83095045/161142318-289121a4-e37c-4ce8-8570-a6c57bbf6614.png)
 
+© Copyright AIS, TUM 2022
